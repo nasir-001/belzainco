@@ -1,27 +1,48 @@
 <template>
-  <div class="tw-flex tw-justify-between">
+  <div class="tw-flex tw-justify-between tw-mx-4 tw-mt-4">
     <div>
-      <div class="tw-text-2xl tw-text-red-600">
-        Company
+      <div class="tw-text-2xl tw-cursor-pointer tw-uppercase tw-text-red-600">
+        belzainco
       </div>
-      <q-btn
-        flat
-        dense
-        round
-        icon="menu"
-        aria-label="Menu"
-      />
     </div>
-    <div>
-      <q-menu anchor="bottom right" self="top right">
-        <q-item clickable>
-          <q-item-section>New tab</q-item-section>
-        </q-item>
-        <q-item clickable>
-          <q-item-section>New incognito tab</q-item-section>
-        </q-item>
+    <q-btn
+      class="tw-text-red-600 tw-block sm:tw-hidden"
+      flat
+      dense
+      round
+      icon="menu"
+      aria-label="Menu">
+      <q-menu
+        transition-show="flip-right"
+        transition-hide="flip-left">
+        <q-list>
+          <q-item clickable>
+            <q-item-section>New tab</q-item-section>
+          </q-item>
+          <q-item clickable>
+            <q-item-section>New incognito tab</q-item-section>
+          </q-item>
+          <q-separator />
+          <q-item clickable>
+            <q-item-section>Recent tabs</q-item-section>
+          </q-item>
+          <q-item clickable>
+            <q-item-section>History</q-item-section>
+          </q-item>
+          <q-item clickable>
+            <q-item-section>Downloads</q-item-section>
+          </q-item>
+          <q-separator />
+          <q-item clickable>
+            <q-item-section>Settings</q-item-section>
+          </q-item>
+          <q-separator />
+          <q-item clickable>
+            <q-item-section>Help &amp; Feedback</q-item-section>
+          </q-item>
+        </q-list>
       </q-menu>
-    </div>
+    </q-btn>
   </div>
 </template>
 
