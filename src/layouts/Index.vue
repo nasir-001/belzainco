@@ -43,14 +43,14 @@
         </q-list>
       </q-menu>
     </q-btn>
-    <div class="sm:tw-flex tw-hidden tw-justify-evenly">
-      <q-item clickable>
+    <div class="sm:tw-flex tw-hidden tw-justify-evenly tw--mt-2">
+      <q-item class="tw-text-red-600 tw-text-lg" clickable>
         <q-item-section>History</q-item-section>
       </q-item>
-      <q-item clickable>
+      <q-item class="tw-text-red-600 tw-text-lg" clickable>
         <q-item-section>History</q-item-section>
       </q-item>
-      <q-item clickable>
+      <q-item class="tw-text-red-600 tw-text-lg" clickable>
         <q-item-section>History</q-item-section>
       </q-item>
     </div>
