@@ -1,12 +1,12 @@
 <template>
   <div class="tw-mx-0">
-    <div class="md:tw-flex tw-justify-between tw-w-5/6 tw-mx-auto tw-mt-14 md:tw-mt-20">
-      <div class="tw-uppercase md:tw-w-1/2 tw-text-gray-700 md:tw-tracking-wide tw-font-serif tw-text-3xl tw-text-center md:tw-text-5xl tw-font-bold">
+    <div class="md:tw-flex tw-justify-between tw-w-5/6 tw-mx-auto tw-mt-14 md:tw-mt-10">
+      <div class="tw-uppercase md:tw-w-1/2 tw-text-gray-700 md:tw-tracking-wide tw-font-serif tw-text-3xl tw-font-thin md:tw-text-7xl">
         belzainco global links nigerian limited
-        <p class="md:tw-text-md tw-text-xs tw-mt-4 tw-text-gray-500 tw-font-sans">Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat quo molestiae, vitae dolorum beatae dolores maiores ut architecto cum aperiam fuga. Quo nam maxime veritatis velit animi omnis voluptates! Rem?</p>
+        <p class="md:tw-text-md tw-text-lg tw-text-gray-600 tw-tracking-normal tw-font-normal tw-ml-1 tw-mt-4 tw-font-sans">Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat quo molestiae, vitae dolorum beatae dolores maiores ut architecto cum aperiam fuga. Quo nam maxime veritatis velit animi omnis voluptates! Rem?</p>
       </div>
-      <div class="md:tw-w-1/2">
-        <img class="tw-w-full" src="/img/images.jpg" alt="">
+      <div class="md:tw-w-1/2 md:tw--mt-20">
+        <!-- <img class="tw-w-full" src="/img/images.jpg" alt=""> -->
       </div>
     </div>
   </div>
