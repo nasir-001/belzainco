@@ -6,7 +6,7 @@
       </div>
     </div>
     <q-btn
-      class="tw-text-gray-800 hover:tw-text-gray-600 tw-block sm:tw-hidden"
+      class="tw-text-gray-800 hover:tw-text-gray-600 tw-block md:tw-hidden"
       flat
       dense
       round
@@ -42,7 +42,7 @@
         </q-list>
       </q-menu>
     </q-btn>
-    <div class="sm:tw-flex tw-hidden tw-justify-evenly tw--mt-2">
+    <div class="md:tw-flex tw-hidden tw-justify-evenly tw--mt-2">
       <q-item class="tw-text-gray-800 tw-text-lg hover:tw-text-gray-600" clickable>
         <q-item-section>
           Community
