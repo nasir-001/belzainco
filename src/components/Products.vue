@@ -1,6 +1,8 @@
 <template>
   <div>
-    Products
+    <div class="tw-text-3xl tw-text-center tw-text-gray-800 tw-font-mono">
+      Our Services
+    </div>
   </div>
 </template>
 
