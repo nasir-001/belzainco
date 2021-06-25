@@ -1,7 +1,7 @@
 <template>
   <div class="tw-flex tw-justify-between tw-mx-4 tw-mt-4">
     <div>
-      <div class="tw-text-2xl tw-cursor-pointer tw-uppercase tw-text-red-600 hover:tw-text-red-400">
+      <div class="tw-text-xl sm:tw-text-2xl tw-cursor-pointer tw-uppercase tw-text-red-600 hover:tw-text-red-400">
         belzainco
       </div>
     </div>
