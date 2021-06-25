@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="tw-text-3xl tw-text-center tw-text-gray-800 tw-font-mono">
+    <div class="tw-text-2xl sm:tw-text-3xl md:tw-text-4xl tw-text-center tw-text-gray-800 tw-font-mono">
       Our Products
     </div>
     <div class="tw-flex tw-justify-evenly tw-mx-6 tw-mt-6">
