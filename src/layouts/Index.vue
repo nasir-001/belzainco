@@ -6,7 +6,7 @@
       </div>
     </div>
     <q-btn
-      class="tw-text-red-600 tw-block sm:tw-hidden"
+      class="tw-text-red-600 hover:tw-text-red-400 tw-block sm:tw-hidden"
       flat
       dense
       round
