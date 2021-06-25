@@ -1,7 +1,7 @@
 <template>
   <div class="tw-flex tw-justify-between tw-mx-4 tw-mt-4">
     <div>
-      <div class="tw-text-2xl tw-cursor-pointer tw-uppercase tw-text-red-600">
+      <div class="tw-text-2xl tw-cursor-pointer tw-uppercase tw-text-red-600 hover:tw-text-red-400">
         belzainco
       </div>
     </div>
@@ -17,34 +17,42 @@
         transition-hide="scale">
         <q-list style="min-width: 150px">
           <q-item clickable>
-            <q-item-section class="tw-text-sm tw-cursor-pointer tw-uppercase tw-text-red-600">Manager</q-item-section>
+            <q-item-section class="tw-text-sm tw-cursor-pointer tw-uppercase tw-text-red-600 hover:tw-text-red-400">
+              Manager
+            </q-item-section>
           </q-item>
           <q-separator />
           <q-item clickable>
-            <q-item-section class="tw-text-sm tw-cursor-pointer tw-uppercase tw-text-red-600">Services</q-item-section>
+            <q-item-section class="tw-text-sm tw-cursor-pointer tw-uppercase tw-text-red-600 hover:tw-text-red-400">
+              Services
+            </q-item-section>
           </q-item>
           <q-separator />
           <q-item clickable>
-            <q-item-section class="tw-text-sm tw-cursor-pointer tw-uppercase tw-text-red-600">Products</q-item-section>
+            <q-item-section class="tw-text-sm tw-cursor-pointer tw-uppercase tw-text-red-600 hover:tw-text-red-400">
+              Products
+            </q-item-section>
           </q-item>
           <q-separator />
           <q-item clickable>
-            <q-item-section class="tw-text-sm tw-cursor-pointer tw-uppercase tw-text-red-600">Aims</q-item-section>
+            <q-item-section class="tw-text-sm tw-cursor-pointer tw-uppercase tw-text-red-600 hover:tw-text-red-400">
+              Aims
+            </q-item-section>
           </q-item>
         </q-list>
       </q-menu>
     </q-btn>
     <div class="sm:tw-flex tw-hidden tw-justify-evenly tw--mt-2">
-      <q-item class="tw-text-red-600 tw-text-lg" clickable>
+      <q-item class="tw-text-red-600 tw-text-lg hover:tw-text-red-400" clickable>
         <q-item-section>Manager</q-item-section>
       </q-item>
-      <q-item class="tw-text-red-600 tw-text-lg" clickable>
+      <q-item class="tw-text-red-600 tw-text-lg hover:tw-text-red-400" clickable>
         <q-item-section>Services</q-item-section>
       </q-item>
-      <q-item class="tw-text-red-600 tw-text-lg" clickable>
+      <q-item class="tw-text-red-600 tw-text-lg hover:tw-text-red-400" clickable>
         <q-item-section>Products</q-item-section>
       </q-item>
-      <q-item class="tw-text-red-600 tw-text-lg" clickable>
+      <q-item class="tw-text-red-600 tw-text-lg hover:tw-text-red-400" clickable>
         <q-item-section>Aims</q-item-section>
       </q-item>
     </div>
