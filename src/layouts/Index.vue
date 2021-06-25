@@ -44,16 +44,24 @@
     </q-btn>
     <div class="sm:tw-flex tw-hidden tw-justify-evenly tw--mt-2">
       <q-item class="tw-text-red-600 tw-text-lg hover:tw-text-red-400" clickable>
-        <q-item-section>Manager</q-item-section>
+        <q-item-section>
+          Manager
+        </q-item-section>
       </q-item>
       <q-item class="tw-text-red-600 tw-text-lg hover:tw-text-red-400" clickable>
-        <q-item-section>Services</q-item-section>
+        <q-item-section>
+          Services
+        </q-item-section>
       </q-item>
       <q-item class="tw-text-red-600 tw-text-lg hover:tw-text-red-400" clickable>
-        <q-item-section>Products</q-item-section>
+        <q-item-section>
+          Products
+        </q-item-section>
       </q-item>
       <q-item class="tw-text-red-600 tw-text-lg hover:tw-text-red-400" clickable>
-        <q-item-section>Aims</q-item-section>
+        <q-item-section>
+          Aims
+        </q-item-section>
       </q-item>
     </div>
   </div>
