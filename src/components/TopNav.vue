@@ -13,6 +13,7 @@
       icon="menu"
       aria-label="Menu">
       <q-menu
+        class="tw-shadow-2xl"
         transition-show="scale"
         transition-hide="scale">
         <q-list style="min-width: 150px">
@@ -43,22 +44,22 @@
       </q-menu>
     </q-btn>
     <div class="md:tw-flex tw-hidden tw-justify-evenly tw--mt-2">
-      <q-item class="tw-text-gray-800 tw-text-lg hover:tw-text-gray-600" clickable>
+      <q-item class="tw-text-gray-800 tw-rounded-lg tw-text-lg hover:tw-text-gray-600" clickable>
         <q-item-section>
           Community
         </q-item-section>
       </q-item>
-      <q-item class="tw-text-gray-800 tw-text-lg hover:tw-text-gray-600" clickable>
+      <q-item class="tw-text-gray-800 tw-rounded-lg tw-text-lg hover:tw-text-gray-600" clickable>
         <q-item-section>
           Services
         </q-item-section>
       </q-item>
-      <q-item class="tw-text-gray-800 tw-text-lg hover:tw-text-gray-600" clickable>
+      <q-item class="tw-text-gray-800 tw-rounded-lg tw-text-lg hover:tw-text-gray-600" clickable>
         <q-item-section>
           Products
         </q-item-section>
       </q-item>
-      <q-item class="tw-text-gray-800 tw-text-lg hover:tw-text-gray-600" clickable>
+      <q-item class="tw-text-gray-800 tw-rounded-lg tw-text-lg hover:tw-text-gray-600" clickable>
         <q-item-section>
           Aims
         </q-item-section>
