@@ -18,7 +18,7 @@
         <q-list style="min-width: 150px">
           <q-item clickable>
             <q-item-section class="tw-text-sm tw-cursor-pointer tw-uppercase tw-text-red-600 hover:tw-text-red-400">
-              Manager
+              Community
             </q-item-section>
           </q-item>
           <q-separator />
@@ -45,7 +45,7 @@
     <div class="sm:tw-flex tw-hidden tw-justify-evenly tw--mt-2">
       <q-item class="tw-text-red-600 tw-text-lg hover:tw-text-red-400" clickable>
         <q-item-section>
-          Manager
+          Community
         </q-item-section>
       </q-item>
       <q-item class="tw-text-red-600 tw-text-lg hover:tw-text-red-400" clickable>
