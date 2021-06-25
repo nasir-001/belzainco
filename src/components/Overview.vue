@@ -1,6 +1,10 @@
 <template>
-  <div>
-    Overview
+  <div class="tw-mx-4">
+    <div class="tw-flex tw-justify-between tw-mt-20">
+      <div class="tw-uppercase tw-w-1/2 tw-text-gray-700 tw-text-5xl tw-font-bold">
+        belzainco global links nigerian limited
+      </div>
+    </div>
   </div>
 </template>
 
