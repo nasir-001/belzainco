@@ -4,14 +4,8 @@
       Services we Provide
     </div>
     <div class="tw-flex tw-mx-auto tw-justify-evenly tw-mt-10">
-      <div class="tw-w-1/3 tw-text-xl tw-text-gray-700 tw-font-mono tw-uppercase">
-        agro processing
-      </div>
-      <div class="tw-w-1/3 tw-text-xl tw-text-gray-700 tw-font-mono tw-uppercase">
-        ginger exporting
-      </div>
-      <div class="tw-w-1/3 tw-text-xl tw-text-gray-700 tw-font-mono tw-uppercase">
-        sweet potato flour
+      <div class="tw-w-1/3 tw-text-xl">
+        <service-card></service-card>
       </div>
     </div>
   </div>
@@ -19,8 +13,12 @@
 
 <script>
 import { defineComponent } from 'vue';
+import ServiceCard from './ServiceCard.vue';
 
 export default defineComponent({
-  name: 'Services'
+  name: 'Services',
+  components: {
+    ServiceCard
+  }
 })
 </script>
