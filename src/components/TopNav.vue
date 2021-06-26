@@ -64,6 +64,7 @@
           Aims
         </q-item-section>
       </q-item>
+       <q-btn flat icon-right="phone" class="tw-text-gray-800 tw-rounded-lg tw-text-lg hover:tw-text-gray-600 tw-capitalize" label="Fuchsia Flat" />
     </div>
   </div>
 </template>
