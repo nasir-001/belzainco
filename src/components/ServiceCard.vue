@@ -42,6 +42,7 @@
 import { defineComponent } from 'vue';
 
 export default {
+  name: 'ServiceCard',
   setup () {
     return {
       onMainClick () {
