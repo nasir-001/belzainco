@@ -4,19 +4,19 @@
       Our Products
     </div>
     <div class="tw-flex tw-mt-20 tw-justify-evenly tw-mx-28 tw-mb-10">
-      <div class="tw-bg-gray-50 tw-shadow-xl tw-border-gray-200 hover:tw-shadow-2xl hover:tw-opacity-80 tw-border-2 tw-h-60 tw-mb-10 tw-w-1/2 sm:tw-w-1/4 tw-rounded-3xl tw-mx-2">
+      <div class="tw-bg-gray-50 tw-shadow-xl tw-border-gray-200 hover:tw-shadow-2xl hover:tw-opacity-80 tw-border-2 tw-h-60 tw-mb-10 tw-w-1/4 tw-rounded-3xl tw-mx-2">
         <img class="tw-object-cover tw-shadow-xl tw-h-48 tw--mt-12 tw-w-5/6 tw-mx-auto hover:tw-shadow-2xl tw-rounded-3xl tw-overflow-hidden"  src="/img/pexels-ready-made-3987286.jpg" alt="">
         <q-badge outline label="Mango" class="tw-ml-6 tw-mt-4 tw-text-sm tw-text-pink-500 tw-px-3" />
       </div>
-      <div class="tw-bg-gray-50 tw-shadow-xl tw-border-gray-200 hover:tw-shadow-2xl hover:tw-opacity-80 tw-border-2 tw-h-60 tw-mb-10 tw-w-1/2 sm:tw-w-1/4 tw-rounded-3xl tw-mx-2">
+      <div class="tw-bg-gray-50 tw-shadow-xl tw-border-gray-200 hover:tw-shadow-2xl hover:tw-opacity-80 tw-border-2 tw-h-60 tw-mb-10 tw-w-1/4 tw-rounded-3xl tw-mx-2">
         <img class="tw-object-cover tw-shadow-xl tw-h-48 tw--mt-12 tw-w-5/6 tw-mx-auto hover:tw-shadow-2xl tw-rounded-3xl tw-overflow-hidden"  src="/img/pexels-ready-made-3850652.jpg" alt="">
         <q-badge outline label="Avocado" class="tw-ml-6 tw-mt-4 tw-text-sm tw-text-pink-500 tw-px-3" />
       </div>
-      <div class="tw-bg-gray-50 tw-shadow-xl tw-border-gray-200 hover:tw-shadow-2xl hover:tw-opacity-80 tw-border-2 tw-h-60 tw-mb-10 tw-w-1/2 sm:tw-w-1/4 tw-rounded-3xl tw-mx-2">
+      <div class="tw-bg-gray-50 tw-shadow-xl tw-border-gray-200 hover:tw-shadow-2xl hover:tw-opacity-80 tw-border-2 tw-h-60 tw-mb-10 tw-w-1/4 tw-rounded-3xl tw-mx-2">
         <img class="tw-object-cover tw-shadow-xl tw-h-48 tw--mt-12 tw-w-5/6 tw-mx-auto hover:tw-shadow-2xl tw-rounded-3xl tw-overflow-hidden"  src="/img/pexels-wendy-wei-1656666.jpg" alt="">
         <q-badge outline label="Avocado" class="tw-ml-6 tw-mt-4 tw-text-sm tw-text-pink-500 tw-px-3" />
       </div>
-      <div class="tw-bg-gray-50 tw-shadow-xl tw-border-gray-200 hover:tw-shadow-2xl hover:tw-opacity-80 tw-border-2 tw-h-60 tw-mb-10 tw-w-1/2 sm:tw-w-1/4 tw-rounded-3xl tw-mx-2">
+      <div class="tw-bg-gray-50 tw-shadow-xl tw-border-gray-200 hover:tw-shadow-2xl hover:tw-opacity-80 tw-border-2 tw-h-60 tw-mb-10 tw-w-1/4 tw-rounded-3xl tw-mx-2">
         <img class="tw-object-cover tw-shadow-xl tw-h-48 tw--mt-12 tw-w-5/6 tw-mx-auto hover:tw-shadow-2xl tw-rounded-3xl tw-overflow-hidden"  src="/img/pexels-naman-nayar-922764.jpg" alt="">
         <q-badge outline label="Hibiscus flower" class="tw-ml-6 tw-mt-4 tw-text-sm tw-text-pink-500 tw-px-3" />
       </div>
