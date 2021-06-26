@@ -1,22 +1,10 @@
 <template>
-  <div class="q-pa-md">
-    <q-btn-dropdown color="pink" label="Dropdown Button" dropdown-icon="change_history">
+  <div>
+    <q-btn-dropdown size="xl" flat label="agro processing" class="md:tw-text-lg tw-text-sm tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono" dropdown-icon="">
       <q-list>
         <q-item clickable v-close-popup @click="onItemClick">
           <q-item-section>
             <q-item-label>Photos</q-item-label>
-          </q-item-section>
-        </q-item>
-
-        <q-item clickable v-close-popup @click="onItemClick">
-          <q-item-section>
-            <q-item-label>Videos</q-item-label>
-          </q-item-section>
-        </q-item>
-
-        <q-item clickable v-close-popup @click="onItemClick">
-          <q-item-section>
-            <q-item-label>Articles</q-item-label>
           </q-item-section>
         </q-item>
       </q-list>
