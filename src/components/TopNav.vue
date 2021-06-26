@@ -64,7 +64,7 @@
           Aims
         </q-item-section>
       </q-item>
-       <q-btn flat icon-right="phone" class="tw-text-gray-800 tw-rounded-lg tw-text-lg hover:tw-text-gray-600 tw-capitalize" label="Fuchsia Flat" />
+       <q-btn flat class="tw-bg-gradient-to-tl tw-from-purple-600 tw-via-yellow-200 tw-to-pink-600 tw-rounded-lg tw-text-lg hover:tw-text-gray-600 tw-capitalize tw-text-purple-600" label="Contact Us" />
     </div>
   </div>
 </template>
