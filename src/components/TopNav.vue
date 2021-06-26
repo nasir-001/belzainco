@@ -35,7 +35,11 @@
             </q-item-section>
           </q-item>
           <q-separator />
-          <q-btn flat class="tw-w-40 tw-bg-gradient-to-tl tw-from-purple-600 tw-via-yellow-200 tw-to-pink-600 tw-text-lg hover:tw-text-purple-700 tw-capitalize tw-text-purple-600" label="Contact Us" />
+          <q-item clickable>
+            <q-item-section class="tw-text-sm tw-cursor-pointer tw-uppercase tw-text-gray-800 hover:tw-text-gray-600">
+              Contact Us
+            </q-item-section>
+          </q-item>
         </q-list>
       </q-menu>
     </q-btn>
