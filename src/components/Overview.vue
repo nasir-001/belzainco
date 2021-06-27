@@ -8,7 +8,7 @@
       </p>
     </div>
     <div class="lg:tw-w-1/2 tw-mt-6 md:tw-mt-0">
-      <img class="tw-w-full tw-opacity-100 hover:tw-opacity-80 tw-object-cover tw-rounded-3xl tw-shadow-xl tw-h-full hover:tw-shadow-2xl" src="/img/pexels-wendy-wei-1656666.jpg" alt="">
+      <img class="tw-w-full tw-opacity-100  hover:tw-opacity-80 tw-object-cover tw-rounded-3xl tw-shadow-xl tw-h-full hover:tw-shadow-2xl" src="/img/pexels-wendy-wei-1656666.jpg" alt="">
     </div>
   </div>
 </template>
