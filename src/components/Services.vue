@@ -1,7 +1,7 @@
 <template>
   <div class="tw-mx-32 tw-my-10">
-    <div class="tw-text-2xl sm:tw-text-3xl md:tw-text-4xl tw-text-center tw-text-gray-800 tw-font-mono">
-      Services we Provide
+    <div class="tw-text-xl sm:tw-text-3xl md:tw-text-4xl tw-text-center tw-text-gray-800 tw-font-mono">
+      Service we Provides
     </div>
     <div class="tw-flex sm:tw-flex-wrap tw-justify-evenly tw-mt-10">
       <div class="tw-w-1/4 tw-text-xl">

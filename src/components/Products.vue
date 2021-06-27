@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="tw-mx-1">
     <div class="tw-text-2xl sm:tw-text-3xl md:tw-text-4xl tw-text-center tw-text-gray-800 tw-font-mono">
       Our Products
     </div>
