@@ -1,6 +1,6 @@
 <template>
   <div>
-    <q-btn-dropdown flat label="agro processing" class="md:tw-text-lg tw-text-sm tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono" dropdown-icon="">
+    <q-btn-dropdown flat label="agro processing" class="md:tw-text-xl tw-text-sm tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono" dropdown-icon="">
       <q-list>
         <q-item clickable v-close-popup @click="onItemClick">
           <q-item-section>
