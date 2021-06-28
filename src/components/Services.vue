@@ -36,7 +36,7 @@
             <q-item clickable v-close-popup @click="onItemClick">
               <q-item-section>
                 <q-item-label class="tw-shadow-xl">
-                  <img class="tw-object-cover tw-shadow-xl tw-h-48 tw-rounded-lg tw-overflow-hidden tw-rounded-b-lg tw-mx-auto tw-w-full hover:tw-shadow-2xl"  src="/img/pexels-pixabay-39304.jpg" alt="">
+                  <img class="tw-object-cover tw-shadow-xl tw-h-48 tw-rounded-lg tw-overflow-hidden tw-rounded-b-lg tw-mx-auto tw-w-full hover:tw-shadow-2xl"  src="/img/pexels-polina-tankilevitch-4518599.jpg" alt="">
                 </q-item-label>
               </q-item-section>
             </q-item>
@@ -49,7 +49,7 @@
             <q-item clickable v-close-popup @click="onItemClick">
               <q-item-section>
                 <q-item-label class="tw-shadow-xl">
-                  <img class="tw-object-cover tw-shadow-xl tw-h-48 tw-rounded-lg tw-overflow-hidden tw-rounded-b-lg tw-mx-auto tw-w-full hover:tw-shadow-2xl"  src="/img/pexels-pixabay-39304.jpg" alt="">
+                  <img class="tw-object-cover tw-shadow-xl tw-h-48 tw-rounded-lg tw-overflow-hidden tw-rounded-b-lg tw-mx-auto tw-w-full hover:tw-shadow-2xl"  src="/img/pexels-naman-nayar-922764.jpg" alt="">
                 </q-item-label>
               </q-item-section>
             </q-item>
@@ -75,7 +75,7 @@
             <q-item clickable v-close-popup @click="onItemClick">
               <q-item-section>
                 <q-item-label class="tw-shadow-xl">
-                  <img class="tw-object-cover tw-shadow-xl tw-h-48 tw-rounded-lg tw-overflow-hidden tw-rounded-b-lg tw-mx-auto tw-w-full hover:tw-shadow-2xl"  src="/img/pexels-pixabay-39304.jpg" alt="">
+                  <img class="tw-object-cover tw-shadow-xl tw-h-48 tw-rounded-lg tw-overflow-hidden tw-rounded-b-lg tw-mx-auto tw-w-full hover:tw-shadow-2xl"  src="/img/pexels-eva-elijas-5988119.jpg" alt="">
                 </q-item-label>
               </q-item-section>
             </q-item>
@@ -101,7 +101,7 @@
             <q-item clickable v-close-popup @click="onItemClick">
               <q-item-section>
                 <q-item-label class="tw-shadow-xl">
-                  <img class="tw-object-cover tw-shadow-xl tw-h-48 tw-rounded-lg tw-overflow-hidden tw-rounded-b-lg tw-mx-auto tw-w-full hover:tw-shadow-2xl"  src="/img/pexels-pixabay-39304.jpg" alt="">
+                  <img class="tw-object-cover tw-shadow-xl tw-h-48 tw-rounded-lg tw-overflow-hidden tw-rounded-b-lg tw-mx-auto tw-w-full hover:tw-shadow-2xl"  src="/img/pexels-ylanite-koppens-915016.jpg" alt="">
                 </q-item-label>
               </q-item-section>
             </q-item>
@@ -127,7 +127,7 @@
             <q-item clickable v-close-popup @click="onItemClick">
               <q-item-section>
                 <q-item-label class="tw-shadow-xl">
-                  <img class="tw-object-cover tw-shadow-xl tw-h-48 tw-rounded-lg tw-overflow-hidden tw-rounded-b-lg tw-mx-auto tw-w-full hover:tw-shadow-2xl"  src="/img/pexels-pixabay-39304.jpg" alt="">
+                  <img class="tw-object-cover tw-shadow-xl tw-h-48 tw-rounded-lg tw-overflow-hidden tw-rounded-b-lg tw-mx-auto tw-w-full hover:tw-shadow-2xl"  src="/img/pexels-wendy-wei-1656666.jpg" alt="">
                 </q-item-label>
               </q-item-section>
             </q-item>
@@ -153,7 +153,7 @@
             <q-item clickable v-close-popup @click="onItemClick">
               <q-item-section>
                 <q-item-label class="tw-shadow-xl">
-                  <img class="tw-object-cover tw-shadow-xl tw-h-48 tw-rounded-lg tw-overflow-hidden tw-rounded-b-lg tw-mx-auto tw-w-full hover:tw-shadow-2xl"  src="/img/pexels-pixabay-39304.jpg" alt="">
+                  <img class="tw-object-cover tw-shadow-xl tw-h-48 tw-rounded-lg tw-overflow-hidden tw-rounded-b-lg tw-mx-auto tw-w-full hover:tw-shadow-2xl"  src="/img/pexels-shvets-production-7194915.jpg" alt="">
                 </q-item-label>
               </q-item-section>
             </q-item>
