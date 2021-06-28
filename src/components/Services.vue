@@ -23,7 +23,7 @@
             <q-item clickable v-close-popup @click="onItemClick">
               <q-item-section>
                 <q-item-label class="tw-shadow-xl">
-                  <img class="tw-object-cover tw-shadow-xl tw-h-48 tw-rounded-lg tw-overflow-hidden tw-rounded-b-lg tw-mx-auto tw-w-full hover:tw-shadow-2xl"  src="/img/pexels-pixabay-39304.jpg" alt="">
+                  <img class="tw-object-cover tw-shadow-xl tw-h-48 tw-rounded-lg tw-overflow-hidden tw-rounded-b-lg tw-mx-auto tw-w-full hover:tw-shadow-2xl"  src="/img/pexels-pixabay-161556.jpg" alt="">
                 </q-item-label>
               </q-item-section>
             </q-item>
@@ -44,7 +44,7 @@
         </q-btn-dropdown>
       </div>
       <div class="tw-w-full sm:tw-w-1/2 tmd:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
-        <q-btn-dropdown flat label="hibuscus flower" class="sm:tw-text-md tw-mt-6 tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono tw-text-left" dropdown-icon="">
+        <q-btn-dropdown flat label="hibiscus flower" class="sm:tw-text-md tw-mt-6 tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono tw-text-left" dropdown-icon="">
           <q-list>
             <q-item clickable v-close-popup @click="onItemClick">
               <q-item-section>
@@ -114,7 +114,7 @@
             <q-item clickable v-close-popup @click="onItemClick">
               <q-item-section>
                 <q-item-label class="tw-shadow-xl">
-                  <img class="tw-object-cover tw-shadow-xl tw-h-48 tw-rounded-lg tw-overflow-hidden tw-rounded-b-lg tw-mx-auto tw-w-full hover:tw-shadow-2xl"  src="/img/pexels-pixabay-39304.jpg" alt="">
+                  <img class="tw-object-cover tw-shadow-xl tw-h-48 tw-rounded-lg tw-overflow-hidden tw-rounded-b-lg tw-mx-auto tw-w-full hover:tw-shadow-2xl"  src="/img/pexels-anna-nekrashevich-7214784.jpg" alt="">
                 </q-item-label>
               </q-item-section>
             </q-item>
@@ -140,7 +140,7 @@
             <q-item clickable v-close-popup @click="onItemClick">
               <q-item-section>
                 <q-item-label class="tw-shadow-xl">
-                  <img class="tw-object-cover tw-shadow-xl tw-h-48 tw-rounded-lg tw-overflow-hidden tw-rounded-b-lg tw-mx-auto tw-w-full hover:tw-shadow-2xl"  src="/img/pexels-pixabay-39304.jpg" alt="">
+                  <img class="tw-object-cover tw-shadow-xl tw-h-48 tw-rounded-lg tw-overflow-hidden tw-rounded-b-lg tw-mx-auto tw-w-full hover:tw-shadow-2xl"  src="/img/pexels-public-domain-pictures-42059.jpg" alt="">
                 </q-item-label>
               </q-item-section>
             </q-item>
