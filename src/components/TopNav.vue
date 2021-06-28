@@ -59,7 +59,7 @@
           Products
         </q-item-section>
       </q-item>
-       <q-btn flat class="tw-ml-2 tw-bg-gradient-to-tl tw-from-pink-300 tw-to-pink-500 tw-rounded-lg tw-text-lg hover:tw-text-pink-600 tw-capitalize tw-text-pink-800" label="Contact Us" />
+      <q-btn flat class="tw-ml-2 tw-bg-gradient-to-tl tw-from-pink-300 tw-to-pink-500 tw-rounded-lg tw-text-lg hover:tw-text-pink-600 tw-capitalize tw-text-pink-800" label="Contact Us" />
     </div>
   </div>
 </template>
