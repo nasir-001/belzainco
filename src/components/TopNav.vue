@@ -37,7 +37,7 @@
           <q-separator />
           <q-item clickable>
             <q-item-section class="tw-text-sm tw-cursor-pointer tw-uppercase tw-text-gray-800 hover:tw-text-gray-600">
-              Contact Us
+              <a href="mailto:belzainco.info@yahoo.com">Contact Us</a>
             </q-item-section>
           </q-item>
         </q-list>
@@ -59,7 +59,7 @@
           Products
         </q-item-section>
       </q-item>
-      <q-btn flat class="tw-ml-2 tw-bg-gradient-to-tl tw-from-pink-300 tw-to-pink-500 tw-rounded-lg tw-text-lg hover:tw-text-pink-600 tw-capitalize tw-text-pink-800" label="Contact Us" />
+        <a class="tw-ml-2 tw-bg-gradient-to-tl tw-py-2 tw-px-3 tw-from-pink-300 tw-to-pink-500 tw-rounded-lg tw-text-lg hover:tw-text-pink-600 tw-capitalize tw-text-pink-800" href="mailto:belzainco.info@yahoo.com">Contact Us</a>
     </div>
   </div>
 </template>
