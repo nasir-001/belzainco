@@ -31,32 +31,6 @@
         </q-btn-dropdown>
       </div>
       <div class="tw-w-full sm:tw-w-1/2 tmd:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
-        <q-btn-dropdown flat label="sweet potato flour" class="sm:tw-text-md tw-mt-6 tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono tw-text-left" dropdown-icon="">
-          <q-list>
-            <q-item clickable v-close-popup @click="onItemClick">
-              <q-item-section>
-                <q-item-label class="tw-shadow-xl">
-                  <img class="tw-object-cover tw-shadow-xl tw-h-48 tw-rounded-lg tw-overflow-hidden tw-rounded-b-lg tw-mx-auto tw-w-full hover:tw-shadow-2xl"  src="/img/pexels-pixabay-39304.jpg" alt="">
-                </q-item-label>
-              </q-item-section>
-            </q-item>
-          </q-list>
-        </q-btn-dropdown>
-      </div>
-      <div class="tw-w-full sm:tw-w-1/2 tmd:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
-        <q-btn-dropdown flat label="sesame seed export" class="sm:tw-text-md tw-mt-6 tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono tw-text-left" dropdown-icon="">
-          <q-list>
-            <q-item clickable v-close-popup @click="onItemClick">
-              <q-item-section>
-                <q-item-label class="tw-shadow-xl">
-                  <img class="tw-object-cover tw-shadow-xl tw-h-48 tw-rounded-lg tw-overflow-hidden tw-rounded-b-lg tw-mx-auto tw-w-full hover:tw-shadow-2xl"  src="/img/pexels-pixabay-39304.jpg" alt="">
-                </q-item-label>
-              </q-item-section>
-            </q-item>
-          </q-list>
-        </q-btn-dropdown>
-      </div>
-      <div class="tw-w-full sm:tw-w-1/2 tmd:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
         <q-btn-dropdown flat label="soya beans export" class="sm:tw-text-md tw-mt-6 tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono tw-text-left" dropdown-icon="">
           <q-list>
             <q-item clickable v-close-popup @click="onItemClick">
@@ -83,7 +57,7 @@
         </q-btn-dropdown>
       </div>
       <div class="tw-w-full sm:tw-w-1/2 tmd:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
-        <q-btn-dropdown flat label="Mango export" class="sm:tw-text-md tw-mt-6 tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono tw-text-left" dropdown-icon="">
+        <q-btn-dropdown flat label="potator flour" class="sm:tw-text-md tw-mt-6 tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono tw-text-left" dropdown-icon="">
           <q-list>
             <q-item clickable v-close-popup @click="onItemClick">
               <q-item-section>
@@ -96,7 +70,7 @@
         </q-btn-dropdown>
       </div>
       <div class="tw-w-full sm:tw-w-1/2 tmd:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
-        <q-btn-dropdown flat label="Pineapple export" class="sm:tw-text-md tw-mt-6 tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono tw-text-left" dropdown-icon="">
+        <q-btn-dropdown flat label="sesame seed" class="sm:tw-text-md tw-mt-6 tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono tw-text-left" dropdown-icon="">
           <q-list>
             <q-item clickable v-close-popup @click="onItemClick">
               <q-item-section>
@@ -109,7 +83,20 @@
         </q-btn-dropdown>
       </div>
       <div class="tw-w-full sm:tw-w-1/2 tmd:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
-        <q-btn-dropdown flat label="banana export" class="sm:tw-text-md tw-mt-6 tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono tw-text-left" dropdown-icon="">
+        <q-btn-dropdown flat label="mango export" class="sm:tw-text-md tw-mt-6 tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono tw-text-left" dropdown-icon="">
+          <q-list>
+            <q-item clickable v-close-popup @click="onItemClick">
+              <q-item-section>
+                <q-item-label class="tw-shadow-xl">
+                  <img class="tw-object-cover tw-shadow-xl tw-h-48 tw-rounded-lg tw-overflow-hidden tw-rounded-b-lg tw-mx-auto tw-w-full hover:tw-shadow-2xl"  src="/img/pexels-pixabay-39304.jpg" alt="">
+                </q-item-label>
+              </q-item-section>
+            </q-item>
+          </q-list>
+        </q-btn-dropdown>
+      </div>
+      <div class="tw-w-full sm:tw-w-1/2 tmd:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
+        <q-btn-dropdown flat label="pineapple export" class="sm:tw-text-md tw-mt-6 tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono tw-text-left" dropdown-icon="">
           <q-list>
             <q-item clickable v-close-popup @click="onItemClick">
               <q-item-section>
@@ -135,6 +122,19 @@
         </q-btn-dropdown>
       </div>
       <div class="tw-w-full sm:tw-w-1/2 tmd:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
+        <q-btn-dropdown flat label="avocado export" class="sm:tw-text-md tw-mt-6 tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono tw-text-left" dropdown-icon="">
+          <q-list>
+            <q-item clickable v-close-popup @click="onItemClick">
+              <q-item-section>
+                <q-item-label class="tw-shadow-xl">
+                  <img class="tw-object-cover tw-shadow-xl tw-h-48 tw-rounded-lg tw-overflow-hidden tw-rounded-b-lg tw-mx-auto tw-w-full hover:tw-shadow-2xl"  src="/img/pexels-pixabay-39304.jpg" alt="">
+                </q-item-label>
+              </q-item-section>
+            </q-item>
+          </q-list>
+        </q-btn-dropdown>
+      </div>
+      <div class="tw-w-full sm:tw-w-1/2 tmd:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
         <q-btn-dropdown flat label="orange export" class="sm:tw-text-md tw-mt-6 tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono tw-text-left" dropdown-icon="">
           <q-list>
             <q-item clickable v-close-popup @click="onItemClick">
@@ -148,7 +148,7 @@
         </q-btn-dropdown>
       </div>
       <div class="tw-w-full sm:tw-w-1/2 tmd:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
-        <q-btn-dropdown flat label="water melon export" class="sm:tw-text-md tw-mt-6 tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono tw-text-left" dropdown-icon="">
+        <q-btn-dropdown flat label="banana export" class="sm:tw-text-md tw-mt-6 tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono tw-text-left" dropdown-icon="">
           <q-list>
             <q-item clickable v-close-popup @click="onItemClick">
               <q-item-section>
