@@ -59,7 +59,7 @@
           Products
         </q-item-section>
       </q-item>
-        <a class="tw-ml-2 tw-py-2 tw-px-3 tw-bg-gradient-to-tl tw-from-gray-300 tw-to-gray-500 tw-bg-gray-700 tw-rounded-lg tw-text-lg hover:tw-text-gray-200 tw-capitalize tw-text-white" href="mailto:belzainco.info@yahoo.com">Contact Us</a>
+      <a class="tw-ml-2 tw-py-2 tw-px-3 tw-bg-gradient-to-tl tw-from-gray-300 tw-to-gray-500 tw-bg-gray-700 tw-rounded-lg tw-text-lg hover:tw-text-gray-200 tw-capitalize tw-text-white" href="mailto:belzainco.info@yahoo.com">Contact Us</a>
     </div>
   </div>
 </template>
