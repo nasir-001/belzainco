@@ -1,6 +1,6 @@
 <template>
   <div class="tw-bottom-0 tw-bg-gray-50">
-    <div class="tw-flex tw-flex-wrap tw-justify-between md:tw-justify-center tw-mb-10 tw-mx-4 sm:tw-mx-10 md:tw-mx-20">
+    <div class="tw-flex tw-flex-wrap tw-justify-between md:tw-justify-center tw-mb-10 tw-mx-2 sm:tw-mx-10 md:tw-mx-20">
       <div class="tw-mt-10 sm:tw-w-1/2 md:tw-w-1/3">
         <div class="tw-text-2xl sm:tw-text-3xl md:tw-text-4xl tw-text-gray-700 tw-cursor-pointer hover:tw-text-gray-600 tw-font-mono">
           Belzainco
@@ -43,7 +43,7 @@
           <q-separator class="tw-w-40" />
           <q-btn dense flat rounded icon="phone"></q-btn>  08063269348
           <q-separator class="tw-w-40" />
-          <q-btn dense flat rounded icon="email"></q-btn><a class="tw-ml-2 tw-text-xs md:tw-text-base" href="mailto:belzainco.info@yahoo.com">belzainco.info@yahoo.com</a>
+          <q-btn dense flat rounded icon="email"></q-btn><a class="tw-ml-2 tw-text-xs lg:tw-text-base" href="mailto:belzainco.info@yahoo.com">belzainco.info@yahoo.com</a>
         </div>
       </div>      
     </div>
