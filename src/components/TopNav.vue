@@ -21,8 +21,8 @@
         transition-hide="scale">
         <q-list style="min-width: 150px">
           <q-item clickable>
-            <q-item-section class="tw-text-sm tw-cursor-pointer tw-uppercase tw-text-gray-800 hover:tw-text-gray-600">
-              Community
+            <q-item-section class="tw-text-sm tw-cursor-pointer tw-overflow-hidden tw-uppercase tw-text-gray-800 hover:tw-text-gray-600">
+              About Us
             </q-item-section>
           </q-item>
           <q-separator />
@@ -49,7 +49,7 @@
     <div class="md:tw-flex tw-hidden tw-justify-evenly tw--mt-2">
       <q-item class="tw-text-gray-800 tw-rounded-lg tw-text-lg hover:tw-text-gray-600" clickable>
         <q-item-section>
-          Community
+          About Us
         </q-item-section>
       </q-item>
       <q-item class="tw-text-gray-800 tw-rounded-lg tw-text-lg hover:tw-text-gray-600" clickable>

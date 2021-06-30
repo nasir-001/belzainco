@@ -6,6 +6,7 @@ const routes = [
   },
   {
     path: '/about',
+    name: 'about',
     component: () => import('components/About.vue')
   },
 
