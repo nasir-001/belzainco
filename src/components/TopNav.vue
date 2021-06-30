@@ -1,15 +1,15 @@
 <template>
   <div class="tw-flex tw-justify-between tw-mx-4 tw-mt-4">
-    <div class="flex tw-justify-start">
-      <div class="tw-mt-2">
+    <div class="flex tw-justify-start tw--mt-4">
+      <div class="tw-mt-2 sm:tw-mt-0">
         <img class="tw-w-14 tw-object-cover tw-h-14"  src="/img/IMG-20210629-WA0081.jpg" alt="">
       </div>
-      <div class="tw-text-xl tw-mt-4 sm:tw-text-2xl tw-cursor-pointer tw-uppercase tw-text-gray-800 hover:tw-text-gray-600">
+      <div class="tw-text-xl tw-mt-4 sm:tw-mt-2 sm:tw-text-2xl tw-cursor-pointer tw-uppercase tw-text-gray-800 hover:tw-text-gray-600">
         belzainco
       </div>
     </div>
     <q-btn
-      class="tw-text-gray-800 tw-w-10 hover:tw-text-gray-600 tw-block md:tw-hidden"
+      class="tw-text-gray-800 tw--mt-4 sm:tw--mt-0 tw-w-10 hover:tw-text-gray-600 tw-block md:tw-hidden"
       flat
       dense
       round
