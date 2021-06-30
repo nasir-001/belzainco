@@ -2,6 +2,7 @@
   <top-nav></top-nav>
   <overview></overview>
   <services></services>
+  <test-component></test-component>
   <products></products>
   <app-footer></app-footer>
 </template>
@@ -13,6 +14,7 @@ import Services from '../components/Services.vue';
 import Overview from '../components/Overview.vue';
 import Products from '../components/Products.vue';
 import AppFooter from '../components/Footer.vue';
+import TestComponent from '../components/TestComponent.vue';
 
 export default defineComponent({
   name: 'Index',
@@ -21,7 +23,8 @@ export default defineComponent({
     Services,
     Overview,
     Products,
-    AppFooter
+    AppFooter,
+    TestComponent
   }
 })
 </script>

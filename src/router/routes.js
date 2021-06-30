@@ -7,7 +7,7 @@ const routes = [
   {
     path: '/about',
     name: 'about',
-    component: () => import('components/About.vue')
+    component: () => import('src/layouts/About.vue')
   },
 
   // Always leave this as last one,
