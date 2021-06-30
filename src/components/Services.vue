@@ -4,7 +4,7 @@
       Service we Provides
     </div> 
     <div class="tw-flex tw-justify-center md:tw-justify-start tw-flex-wrap tw-mb-10">
-      <div class="tw-w-full sm:tw-w-1/2 tmd:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
+      <div class="tw-w-full sm:tw-w-1/2 md:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
         <q-btn-dropdown flat label="agro processing" class="sm:tw-text-md tw-mt-6 tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono tw-text-left" dropdown-icon="">
           <q-list>
             <q-item clickable v-close-popup @click="onItemClick">
@@ -17,7 +17,7 @@
           </q-list>
         </q-btn-dropdown>
       </div>
-      <div class="tw-w-full sm:tw-w-1/2 tmd:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
+      <div class="tw-w-full sm:tw-w-1/2 md:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
         <q-btn-dropdown flat label="ginger export" class="sm:tw-text-md tw-mt-6 tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono tw-text-left" dropdown-icon="">
           <q-list>
             <q-item clickable v-close-popup @click="onItemClick">
@@ -30,7 +30,7 @@
           </q-list>
         </q-btn-dropdown>
       </div>
-      <div class="tw-w-full sm:tw-w-1/2 tmd:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
+      <div class="tw-w-full sm:tw-w-1/2 md:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
         <q-btn-dropdown flat label="soya beans export" class="sm:tw-text-md tw-mt-6 tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono tw-text-left" dropdown-icon="">
           <q-list>
             <q-item clickable v-close-popup @click="onItemClick">
@@ -43,7 +43,7 @@
           </q-list>
         </q-btn-dropdown>
       </div>
-      <div class="tw-w-full sm:tw-w-1/2 tmd:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
+      <div class="tw-w-full sm:tw-w-1/2 md:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
         <q-btn-dropdown flat label="hibiscus flower" class="sm:tw-text-md tw-mt-6 tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono tw-text-left" dropdown-icon="">
           <q-list>
             <q-item clickable v-close-popup @click="onItemClick">
@@ -56,7 +56,7 @@
           </q-list>
         </q-btn-dropdown>
       </div>
-      <div class="tw-w-full sm:tw-w-1/2 tmd:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
+      <div class="tw-w-full sm:tw-w-1/2 md:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
         <q-btn-dropdown flat label="potator swallow" class="sm:tw-text-md tw-mt-6 tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono tw-text-left" dropdown-icon="">
           <q-list>
             <q-item clickable v-close-popup @click="onItemClick">
@@ -69,7 +69,7 @@
           </q-list>
         </q-btn-dropdown>
       </div>
-      <div class="tw-w-full sm:tw-w-1/2 tmd:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
+      <div class="tw-w-full sm:tw-w-1/2 md:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
         <q-btn-dropdown flat label="sesame seed" class="sm:tw-text-md tw-mt-6 tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono tw-text-left" dropdown-icon="">
           <q-list>
             <q-item clickable v-close-popup @click="onItemClick">
@@ -82,7 +82,7 @@
           </q-list>
         </q-btn-dropdown>
       </div>
-      <div class="tw-w-full sm:tw-w-1/2 tmd:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
+      <div class="tw-w-full sm:tw-w-1/2 md:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
         <q-btn-dropdown flat label="mango export" class="sm:tw-text-md tw-mt-6 tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono tw-text-left" dropdown-icon="">
           <q-list>
             <q-item clickable v-close-popup @click="onItemClick">
@@ -95,7 +95,7 @@
           </q-list>
         </q-btn-dropdown>
       </div>
-      <div class="tw-w-full sm:tw-w-1/2 tmd:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
+      <div class="tw-w-full sm:tw-w-1/2 md:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
         <q-btn-dropdown flat label="pineapple export" class="sm:tw-text-md tw-mt-6 tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono tw-text-left" dropdown-icon="">
           <q-list>
             <q-item clickable v-close-popup @click="onItemClick">
@@ -108,7 +108,7 @@
           </q-list>
         </q-btn-dropdown>
       </div>
-      <div class="tw-w-full sm:tw-w-1/2 tmd:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
+      <div class="tw-w-full sm:tw-w-1/2 md:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
         <q-btn-dropdown flat label="apple export" class="sm:tw-text-md tw-mt-6 tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono tw-text-left" dropdown-icon="">
           <q-list>
             <q-item clickable v-close-popup @click="onItemClick">
@@ -121,7 +121,7 @@
           </q-list>
         </q-btn-dropdown>
       </div>
-      <div class="tw-w-full sm:tw-w-1/2 tmd:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
+      <div class="tw-w-full sm:tw-w-1/2 md:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
         <q-btn-dropdown flat label="avocado export" class="sm:tw-text-md tw-mt-6 tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono tw-text-left" dropdown-icon="">
           <q-list>
             <q-item clickable v-close-popup @click="onItemClick">
@@ -134,7 +134,7 @@
           </q-list>
         </q-btn-dropdown>
       </div>
-      <div class="tw-w-full sm:tw-w-1/2 tmd:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
+      <div class="tw-w-full sm:tw-w-1/2 md:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
         <q-btn-dropdown flat label="orange export" class="sm:tw-text-md tw-mt-6 tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono tw-text-left" dropdown-icon="">
           <q-list>
             <q-item clickable v-close-popup @click="onItemClick">
@@ -147,7 +147,7 @@
           </q-list>
         </q-btn-dropdown>
       </div>
-      <div class="tw-w-full sm:tw-w-1/2 tmd:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
+      <div class="tw-w-full sm:tw-w-1/2 md:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
         <q-btn-dropdown flat label="banana export" class="sm:tw-text-md tw-mt-6 tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono tw-text-left" dropdown-icon="">
           <q-list>
             <q-item clickable v-close-popup @click="onItemClick">
@@ -160,7 +160,7 @@
           </q-list>
         </q-btn-dropdown>
       </div>
-      <div class="tw-w-full sm:tw-w-1/2 tmd:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
+      <div class="tw-w-full sm:tw-w-1/2 md:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
         <q-btn-dropdown flat label="potator flour" class="sm:tw-text-md tw-mt-6 tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono tw-text-left" dropdown-icon="">
           <q-list>
             <q-item clickable v-close-popup @click="onItemClick">
@@ -173,7 +173,7 @@
           </q-list>
         </q-btn-dropdown>
       </div>
-      <div class="tw-w-full sm:tw-w-1/2 tmd:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
+      <div class="tw-w-full sm:tw-w-1/2 md:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
         <q-btn-dropdown flat label="Onions Export" class="sm:tw-text-md tw-mt-6 tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono tw-text-left" dropdown-icon="">
           <q-list>
             <q-item clickable v-close-popup @click="onItemClick">
@@ -186,7 +186,7 @@
           </q-list>
         </q-btn-dropdown>
       </div>
-      <div class="tw-w-full sm:tw-w-1/2 tmd:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
+      <div class="tw-w-full sm:tw-w-1/2 md:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
         <q-btn-dropdown flat label="sweet potator export" class="sm:tw-text-md tw-mt-6 tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono tw-text-left" dropdown-icon="">
           <q-list>
             <q-item clickable v-close-popup @click="onItemClick">
@@ -199,7 +199,7 @@
           </q-list>
         </q-btn-dropdown>
       </div>
-      <div class="tw-w-full sm:tw-w-1/2 tmd:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
+      <div class="tw-w-full sm:tw-w-1/2 md:tw-w-1/3 lg:tw-w-1/4 tw-text-xl tw-mx-0">
         <q-btn-dropdown flat label="pepper export" class="sm:tw-text-md tw-mt-6 tw-w-full tw-text-gray-700 tw-tracking-widest tw-font-thin tw-font-mono tw-text-left" dropdown-icon="">
           <q-list>
             <q-item clickable v-close-popup @click="onItemClick">
