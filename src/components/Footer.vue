@@ -1,6 +1,6 @@
 <template>
   <div class="tw-bottom-0 tw-bg-gray-50">
-    <div class="tw-flex tw-flex-wrap tw-justify-between md:tw-justify-center tw-mb-10 tw-mx-2 sm:tw-mx-10 md:tw-mx-20">
+    <div class="tw-flex tw-flex-wrap tw-justify-between sm:tw-justify-start md:tw-justify-center tw-mb-10 tw-mx-2 md:tw-mx-20">
       <div class="tw-mt-10 sm:tw-w-1/2 md:tw-w-1/3">
         <div class="tw-text-2xl sm:tw-text-3xl md:tw-text-4xl tw-text-gray-700 tw-cursor-pointer hover:tw-text-gray-600 tw-font-mono">
           Belzainco
@@ -13,26 +13,38 @@
         <div class="tw-text-lg sm:tw-text-xl md:tw-text-2xl md:tw-ml-12 tw-text-gray-800 tw-cursor-pointer hover:tw-text-gray-600 tw-font-mono">
           Services
         </div>
-        <div class="md:tw-mt-3 tw-text-xs sm:tw-text-base tw-py-2 tw-tracking-widest md:tw-ml-12 tw-text-gray-500 tw-font-mono">
+        <div class="tw-text-xs sm:tw-text-sm tw-mt-1 tw-py-2 tw-tracking-widest md:tw-ml-12 tw-text-gray-500 tw-font-mono">
           Agro processing
         </div>
-        <q-separator class="md:tw-mx-14" />
-        <div class="tw-mt-1 tw-text-xs sm:tw-text-base tw-py-2 tw-tracking-widest md:tw-ml-12 tw-text-gray-500 tw-font-mono">
+        <q-separator class="md:tw-mx-10" />
+        <div class="tw-text-xs sm:tw-text-sm tw-mt-1 tw-py-2 tw-tracking-widest md:tw-ml-12 tw-text-gray-500 tw-font-mono">
           Agro import/export
         </div>
-        <q-separator class="md:tw-mx-14" />
-        <div class="tw-mt-1 tw-text-xs sm:tw-text-base tw-py-2 tw-tracking-widest md:tw-ml-12 tw-text-gray-500 tw-font-mono">
-          Aggregators
+        <q-separator class="md:tw-mx-10" />
+        <div class="tw-text-xs sm:tw-text-sm tw-mt-1 tw-py-2 tw-tracking-widest md:tw-ml-12 tw-text-gray-500 tw-font-mono">
+          Agripreneur Training
         </div>
-        <q-separator class="md:tw-mx-14" />
-        <div class="tw-mt-1 tw-text-xs sm:tw-text-base tw-py-2 tw-tracking-widest md:tw-ml-12 tw-text-gray-500 tw-font-mono">
-          Aggregators
+        <q-separator class="md:tw-mx-10" />
+        <div class="tw-text-xs sm:tw-text-sm tw-mt-1 tw-py-2 tw-tracking-widest md:tw-ml-12 tw-text-gray-500 tw-font-mono">
+          Export Consultations
         </div>
-        <q-separator class="md:tw-mx-14" />
-        <div class="tw-mt-1 tw-py-2 tw-tracking-widest md:tw-ml-12 tw-text-gray-500 tw-font-mono">
-          Aggregators
+        <q-separator class="md:tw-mx-10" />
+        <div class="tw-text-xs sm:tw-text-sm tw-mt-1 tw-py-2 tw-tracking-widest md:tw-ml-12 tw-text-gray-500 tw-font-mono">
+          Agriculture Consultation
         </div>
-        <q-separator class="md:tw-mx-14" />
+        <q-separator class="md:tw-mx-10" />
+        <div class="tw-text-xs sm:tw-text-sm tw-mt-1 tw-py-2 tw-tracking-widest md:tw-ml-12 tw-text-gray-500 tw-font-mono">
+          Export Contract of Non-Oil Commodity
+        </div>
+        <q-separator class="md:tw-mx-10" />
+        <div class="tw-text-xs sm:tw-text-sm tw-mt-1 tw-py-2 tw-tracking-widest md:tw-ml-12 tw-text-gray-500 tw-font-mono">
+          Drying of All Forms of Farm produce
+        </div>
+        <q-separator class="md:tw-mx-10" />
+        <div class="tw-text-xs sm:tw-text-sm tw-mt-1 tw-py-2 tw-tracking-widest md:tw-ml-12 tw-text-gray-500 tw-font-mono">
+          Agriculture Equipment Manufacturing supply
+        </div>
+        <q-separator class="md:tw-mx-10" />
       </div>      
       <div class="tw-mt-4 md:tw-mt-10 sm:tw-w-1/2 md:tw-w-1/3">
         <div class="tw-text-lg sm:tw-text-xl md:tw-text-2xl tw-ml-1 tw-text-gray-800 tw-cursor-pointer hover:tw-text-gray-600 tw-font-mono">
@@ -58,8 +70,9 @@
 
 <script>
 import { defineComponent } from 'vue';
+import { date  } from 'quasar';
 
 export default defineComponent({
-  name: 'AppFooter'
+  name: 'AppFooter',
 })
 </script>
