@@ -1,7 +1,7 @@
 <template>
   <top-nav></top-nav>
   <overview></overview>
-  <test-component></test-component>
+  <!-- <test-component></test-component> -->
   <services></services>
   <product-carousel></product-carousel>
   <app-footer></app-footer>
@@ -24,7 +24,7 @@ export default defineComponent({
     Overview,
     AppFooter,
     ProductCarousel,
-    TestComponent
+    // TestComponent
   }
 })
 </script>
