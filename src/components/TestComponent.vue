@@ -16,14 +16,13 @@ import { defineComponent, ref, toRefs } from 'vue';
 export default defineComponent({
   name: 'ProductCarousel',
 
-  props: {
-    src: Object,
-    name: String
-  },
-  setup () {
-    return {
-      slide: ref(1),
-    }
+  // props: {
+  //   src = Object,
+  //   name = String
+  // },
+  
+  setup() {
+    return { slide: ref(1), }
   }
 })
 </script>
