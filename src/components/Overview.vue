@@ -4,7 +4,7 @@
       belzainco global links nigerian limited
       <p class="md:tw-text-lg tw-mr-2 tw-text-sm tw-text-gray-700 tw-tracking-normal tw-font-thin tw-ml-1 tw-mt-4 tw-font-mono">
         Belzainco global links nigerian limited offers the best service in sourcing, storage and transporting agricultural products.
-        our role is to ensure that we import and export a raw quality agricultural products at affordable price to our customers.
+        our role is to ensure that we import and export a raw and quality agricultural products at affordable price to our customers.
       </p>
     </div>
     <div class="lg:tw-w-1/2 tw-mx-1 md:tw-mx-0 tw-mt-6 md:tw-mt-0">
