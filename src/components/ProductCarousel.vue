@@ -1,5 +1,5 @@
 <template>
-  <div class="tw-text-2xl sm:tw-text-3xl md:tw-text-4xl tw-text-center tw-text-gray-800 tw-font-mono">
+  <div class="tw-text-2xl sm:tw-text-3xl tw-mt-20 md:tw-text-4xl tw-text-center tw-text-gray-800 tw-font-mono">
     Our Products
   </div>
   <div class="q-pa-md">
