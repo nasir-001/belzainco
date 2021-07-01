@@ -9,44 +9,44 @@
           Belzainco global links nigerian limited offers the best service in sourcing, storage and transporting agricultural products. our role is to ensure that we import and export a raw and quality agricultural products at affordable price to our customers.
         </div>
       </div>
-      <div class="tw-mt-4 md:tw-mt-10 sm:tw-w-1/2 md:tw-w-1/3">
+      <div class="tw-mt-2 md:tw-mt-10 sm:tw-w-1/2 md:tw-w-1/3">
         <div class="tw-text-lg sm:tw-text-xl md:tw-text-2xl md:tw-ml-12 tw-text-gray-800 tw-cursor-pointer hover:tw-text-gray-600 tw-font-mono">
           Services
         </div>
-        <div class="tw-text-xs sm:tw-text-sm tw-mt-1 tw-py-2 tw-tracking-widest md:tw-ml-12 tw-text-gray-500 tw-font-mono">
+        <div class="tw-text-xs sm:tw-text-sm tw-mt- tw-py-2 tw-tracking-widest md:tw-ml-12 tw-text-gray-500 tw-font-mono">
           Agro processing
         </div>
         <q-separator class="md:tw-mx-10" />
-        <div class="tw-text-xs sm:tw-text-sm tw-mt-1 tw-py-2 tw-tracking-widest md:tw-ml-12 tw-text-gray-500 tw-font-mono">
+        <div class="tw-text-xs sm:tw-text-sm tw-mt- tw-py-2 tw-tracking-widest md:tw-ml-12 tw-text-gray-500 tw-font-mono">
           Agro import/export
         </div>
         <q-separator class="md:tw-mx-10" />
-        <div class="tw-text-xs sm:tw-text-sm tw-mt-1 tw-py-2 tw-tracking-widest md:tw-ml-12 tw-text-gray-500 tw-font-mono">
+        <div class="tw-text-xs sm:tw-text-sm tw-mt- tw-py-2 tw-tracking-widest md:tw-ml-12 tw-text-gray-500 tw-font-mono">
           Agripreneur Training
         </div>
         <q-separator class="md:tw-mx-10" />
-        <div class="tw-text-xs sm:tw-text-sm tw-mt-1 tw-py-2 tw-tracking-widest md:tw-ml-12 tw-text-gray-500 tw-font-mono">
+        <div class="tw-text-xs sm:tw-text-sm tw-mt- tw-py-2 tw-tracking-widest md:tw-ml-12 tw-text-gray-500 tw-font-mono">
           Export Consultations
         </div>
         <q-separator class="md:tw-mx-10" />
-        <div class="tw-text-xs sm:tw-text-sm tw-mt-1 tw-py-2 tw-tracking-widest md:tw-ml-12 tw-text-gray-500 tw-font-mono">
+        <div class="tw-text-xs sm:tw-text-sm tw-mt- tw-py-2 tw-tracking-widest md:tw-ml-12 tw-text-gray-500 tw-font-mono">
           Agriculture Consultation
         </div>
         <q-separator class="md:tw-mx-10" />
-        <div class="tw-text-xs sm:tw-text-sm tw-mt-1 tw-py-2 tw-tracking-widest md:tw-ml-12 tw-text-gray-500 tw-font-mono">
+        <div class="tw-text-xs sm:tw-text-sm tw-mt- tw-py-2 tw-tracking-widest md:tw-ml-12 tw-text-gray-500 tw-font-mono">
           Export Contract of Non-Oil Commodity
         </div>
         <q-separator class="md:tw-mx-10" />
-        <div class="tw-text-xs sm:tw-text-sm tw-mt-1 tw-py-2 tw-tracking-widest md:tw-ml-12 tw-text-gray-500 tw-font-mono">
+        <div class="tw-text-xs sm:tw-text-sm tw-mt- tw-py-2 tw-tracking-widest md:tw-ml-12 tw-text-gray-500 tw-font-mono">
           Drying of All Forms of Farm produce
         </div>
         <q-separator class="md:tw-mx-10" />
-        <div class="tw-text-xs sm:tw-text-sm tw-mt-1 tw-py-2 tw-tracking-widest md:tw-ml-12 tw-text-gray-500 tw-font-mono">
+        <div class="tw-text-xs sm:tw-text-sm tw-mt- tw-py-2 tw-tracking-widest md:tw-ml-12 tw-text-gray-500 tw-font-mono">
           Agriculture Equipment Manufacturing supply
         </div>
         <q-separator class="md:tw-mx-10" />
       </div>      
-      <div class="tw-mt-4 md:tw-mt-10 sm:tw-w-1/2 md:tw-w-1/3">
+      <div class="tw-mt-2 md:tw-mt-10 sm:tw-w-1/2 md:tw-w-1/3">
         <div class="tw-text-lg sm:tw-text-xl md:tw-text-2xl tw-ml-1 tw-text-gray-800 tw-cursor-pointer hover:tw-text-gray-600 tw-font-mono">
           Contact Us
         </div>
