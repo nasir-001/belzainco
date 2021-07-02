@@ -124,7 +124,7 @@
             <img class="tw-object-cover tw-shadow-xl tw-h-48 tw--mt-12 tw-w-5/6 tw-mx-auto hover:tw-shadow-2xl tw-rounded-3xl tw-overflow-hidden" src="/img/crayfishimage.jpeg" alt="">
             <p class="tw-ml-2 sm:tw-ml-4 tw-mt-4 tw-text-sm sm:tw-text-lg tw-text-gray-500 tw-font-mono tw-font-thin tw-px-3">
               Crayfish
-            </p>
+            </p>                  
           </div>              
         </div>
       </q-carousel-slide>
