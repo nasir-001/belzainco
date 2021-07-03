@@ -9,7 +9,7 @@
     Some of our partners we work with in a various Capacities in the Global Agribusinesses industry. National Research instituted for chemical technology (NARICT), Federal Ministry of Rural and Agriculture Development (FMRD), Sweet potato forum (SPF), Cooperate Farmers International (CFI) And Nigerian Export promotion council (NEPC). We have also build intensive network and Relationship in Nigeria and International Agribusiness industries.
     </div>
     <div class="lg:tw-w-2/6 tw-mx-2 lg:tw-mx-0">
-      <img class="tw-w-full tw-opacity-100  hover:tw-opacity-80 tw-object-cover tw-rounded-3xl tw-shadow-xl tw-h-full hover:tw-shadow-2xl" src="/img/site_logo.jpg" alt="">
+      <img class="tw-w-full tw-opacity-100  hover:tw-opacity-80 tw-object-cover tw-rounded-3xl tw-shadow-xl tw-h-full hover:tw-shadow-2xl" src="/img/logo.jpg" alt="">
     </div>
   </div>
   <app-footer></app-footer>
