@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "disp/spa",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
