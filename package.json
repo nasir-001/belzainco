@@ -1,5 +1,5 @@
 {
-  "name": "landing",
+  "name": "attendance",
   "version": "0.0.1",
   "description": "A Quasar Framework app",
   "productName": "Quasar App",
@@ -13,8 +13,7 @@
     "@quasar/extras": "^1.0.0",
     "core-js": "^3.6.5",
     "quasar": "^2.0.0",
-    "tailwindcss": "^2.2.4",
-    "vue3-smooth-scroll": "^0.8.1"
+    "tailwindcss": "^2.2.4"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.13.14",
